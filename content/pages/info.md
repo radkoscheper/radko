@@ -22,7 +22,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/Radko.jpg
-      altText: Hero image
+      altText: Radko Scheper
     styles:
       self:
         height: auto
