@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Welkom
+    title: Welkom op Radko.nl
     subtitle: Dit is mijn persoonlijke website
     styles:
       self:
