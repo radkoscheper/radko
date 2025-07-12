@@ -353,4 +353,5 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
+socialImage: /images/Radko.jpg
 ---
